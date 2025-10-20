@@ -1,0 +1,20 @@
+# arithematic math operator
+# some functions
+# round funtion : to round off the given value
+x = 2.16
+y = -9
+z = 7
+# result = round(x)
+
+"""There is a function called absolute to give the absolute value of the given variable : absolute value is the
+distance from 0 of number""" 
+# result = abs(y)
+
+#now for the third fuction there is power function that gives the power of the value
+# result = pow(z, 2) 
+
+# for the fourth and important function there is max for classifying the  maximum number among numbers
+# result = max(x, y, z)
+# and minimum function to find the minimum possible number among numbers
+result = min(x, y, z)
+print(result)
